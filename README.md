@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eunhachingu&label=Profile%20views&color=0e75b6&style=flat" alt="eunhachingu" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Laravel, Python Flask**
+- 🌱 I’m currently learning **Flutter, Node, Firebase**
 
 - 📫 How to reach me **pajunar0@gmail.com**
 
